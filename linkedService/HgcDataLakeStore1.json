@@ -1,0 +1,13 @@
+{
+	"name": "HgcDataLakeStore1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataLakeStore",
+		"typeProperties": {
+			"dataLakeStoreUri": "https://hgclakestorage.azuredatalakestore.net/webhdfs/v1",
+			"tenant": "42ff140b-1bca-47f7-9bd2-d684d0f819d9",
+			"subscriptionId": "d9972b95-f36d-47a1-ac3a-427bb29a7e95",
+			"resourceGroupName": "HGC_Data_warehouse"
+		}
+	}
+}
