@@ -1,0 +1,16 @@
+{
+	"name": "Oracledata",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Oracle",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "OracleTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "suresh",
+			"table": "COUNTRY_DETAILS"
+		}
+	}
+}
