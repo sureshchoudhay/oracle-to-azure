@@ -2,7 +2,7 @@
 	"name": "Oracledata",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "Oracle",
+			"referenceName": "onprimOracle",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
