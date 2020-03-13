@@ -2,6 +2,7 @@
 	"name": "integrationRuntime1",
 	"properties": {
 		"type": "Managed",
+		"description": "onprim to Azure",
 		"typeProperties": {
 			"computeProperties": {
 				"location": "AutoResolve",
